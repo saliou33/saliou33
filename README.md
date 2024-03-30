@@ -3,7 +3,7 @@ Hi, I'm Serigne Saliou LO, a passionate software engineer and an Ai enthusiats.
 
 I love solving computing and complex problems.
 * 🗺️ I'm based in Dakar, Senegal
-* 🖥️ Check my ![portfolio](https://ssl33.vercel.app/) for more info
+* 🖥️ Check my [portfolio](https://ssl33.vercel.app/) for more info
 * 📨 Contact me at losaliou.sl33@gmail.com
 
 ## 💻 Tech Stack:
