@@ -1,7 +1,7 @@
 ## 💫 Me:
-Hi, I'm Serigne Saliou LO, a passionate software engineer and an Ai enthusiats.
+Hi, I'm Serigne Saliou LO, a passionate software engineer and an AI enthusiat.
 
-I love solving computing and complex problems.
+I love solving ai related and complex problems.
 * 🗺️ I'm based in Dakar, Senegal
 * 🖥️ Check my [portfolio](https://ssl33.vercel.app/) for more info
 * 📨 Contact me at losaliou.sl33@gmail.com
