@@ -1,5 +1,5 @@
 # Serigne Saliou LO
-### Backend Engineer & Problem Solver 
+### Sofware Engineer & Problem Solver 
 
 Hi! I'm a Software Engineer specializing in backend development and distributed systems, with a strong focus on solving complex algorithmic challenges and building scalable applications.
 
