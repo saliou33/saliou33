@@ -54,11 +54,11 @@ Hi! I'm a Software Engineer specializing in backend development and distributed 
 
 ## Get in Touch
 - Based in Dakar, Senegal
-- Portfolio: [ssl33.vercel.app](https://ssl33.vercel.app/)
+- Portfolios: [ssl33.vercel.app](https://ssl33.vercel.app/) & [ssl32.vercel.app](https://ssl32.vercel.app/)
 - Email: losaliou.sl33@gmail.com
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=saliou33&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=saliou33&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saliou33&theme=dark&hide_border=false)
 
 ## Interests
