@@ -58,8 +58,7 @@ Hi! I'm a Software Engineer specializing in backend development and distributed 
 - Email: losaliou.sl33@gmail.com
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=saliou33&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=saliou33&theme=dark&hide_border=false)
+[![trophy](https://github-profile-trophy.vercel.app/?username=saliou33&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Interests
 - Anime & Manga Enthusiast
