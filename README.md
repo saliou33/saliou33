@@ -11,6 +11,3 @@ My motto is no hype and evolve my skills steadly with humbleness through deep di
 
 ## Contacts
 Email:      losaliou.sl33@gmail.com
-
-Linkedin:   linkedin.com/in/ssl33
-
