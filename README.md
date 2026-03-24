@@ -9,5 +9,5 @@ In my free time, I build side projects like flowbot.cc, senpost.cc, dawahrepost.
 
 My motto is no hype and evolve my skills steadly with humbleness through deep dive and practice.
 
-## Contacts
+## Contact
 Email:      losaliou.sl33@gmail.com
