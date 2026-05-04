@@ -3,7 +3,7 @@
 
 Hello ! I'm a Software Engineer specialized in backend development, AI and remote sensing, with a strong focus on solving algorithmic challenges and building scalable services.
 
-I'm proficient with programming language as Python, Java, Javascript and Typescript.
+I'm proficient with programming language as Python, Java, Rust, Javascript and Typescript.
 
 In my free time, I build side projects like flowbot.cc, senpost.cc, dawahrepost.cc ... and read books (maths, physics, computer science, web novels ...).
 
