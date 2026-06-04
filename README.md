@@ -1,7 +1,7 @@
 # Serigne Saliou LO
 ## Profession 
 
-Hello ! I'm a Software Engineer specialized in backend development, AI and remote sensing, with a strong focus on solving algorithmic challenges and building scalable services.
+Hello ! I'm a Software Engineer specialized in fullstack development, AI and remote sensing, with a strong focus on solving algorithmic challenges and building scalable services.
 
 I'm proficient with programming language as Python, Java, Rust, Javascript and Typescript.
 
