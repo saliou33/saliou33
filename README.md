@@ -11,17 +11,17 @@ it, then follow the next question.
 ```
 2018  computer science ── 2022  registry systems ── 2023  banking ── 2024  geospatial & data
                                                                             │
-                         …wherever it leads ┄┄ robotics ┄┄ machine learning ┄┄ 2025  AI engineering ← now
+                                         later  robotics ┄┄ next  machine learning ┄┄ 2025  AI engineering ← now
 ```
 
 #### Now
 
-- **Learning**: how LLMs actually work, one layer below the API, with probability and linear
-  algebra alongside. Machine learning next, then robotics.
+- **Learning**: AI engineering from the maths up, working through
+  [AI Engineering from Scratch](https://aiengineeringfromscratch.com): backprop, a tokenizer,
+  attention, an agent loop, each derived before any framework. Machine learning next, then robotics.
 - **Building**: **Agency**, a harness for code I don't trust. Rootless read-only sandboxes, a
   Postgres state machine, one-hour credentials scoped to a single repo, diffs checked before
   anything is pushed, and a reviewer from another model family.
-- **Reading**: nanoGPT and minbpe, line by line.
 
 #### Things I've built
 
