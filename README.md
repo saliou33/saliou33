@@ -9,9 +9,8 @@ systems. I think of myself as a seeker: pick a domain, learn it properly, build 
 it, then follow the next question.
 
 ```
-2018  computer science ── 2022  registry systems ── 2023  banking ── 2024  geospatial & data
-                                                                            │
-                                         later  robotics ┄┄ next  machine learning ┄┄ 2025  AI engineering ← now
+2018 computer science ─ 2022 registry systems ─ 2023 banking ─ 2024 geospatial & data
+2025 AI engineering ← now ┄┄ next: machine learning ┄┄ later: robotics
 ```
 
 #### Now
