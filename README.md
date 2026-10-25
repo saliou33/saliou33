@@ -10,7 +10,7 @@ it, then follow the next question.
 
 ```
 2018 computer science ─ 2022 registry systems ─ 2023 banking ─ 2024 geospatial & data
-2025 machine learning (revising) ─ 2026 AI engineering ← now ┄┄ next: robotics, neuroscience
+2025 machine learning (production) ─ 2026 AI engineering ← now ┄┄ robotics ┄┄ neuroscience ┄┄ …
 ```
 
 #### Now
