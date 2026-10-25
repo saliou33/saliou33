@@ -30,7 +30,7 @@ it, then follow the next question.
 | **Tolbi** | Yield forecasting at 10 m per pixel, country-scale Dataflow pipelines (1B+ training rows), an MCP server over farm data with tenant isolation, climate timelines per field |
 | [**SenPost**](https://senpost.cc) | Content calendar that publishes to six networks; the scheduler lives in Postgres |
 | [**DawahRepost**](https://dawahrepost.cc) | Scheduling for Muslim creators: one click turns a surah range into a styled post series |
-| **FlowBot** | WhatsApp bots you draw instead of code. I wrote the backend: a resumable graph engine, LLM agents, voice calls |
+| [**FlowBot**](https://zaleo.dev/projects/flowbot) | WhatsApp bots you draw instead of code. I wrote the backend: a resumable graph engine, LLM agents, voice calls |
 | [**EarthFlow**](https://github.com/saliou33/earthflow-backend) | Node canvas for geospatial pipelines, with a DAG engine in Rust/Axum |
 | [**Vipath**](https://saliou33.github.io/vipath/) · [**Visort**](https://saliou33.github.io/visort/) | Pathfinding and sorting visualisers, written from scratch |
 
