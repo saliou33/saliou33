@@ -1,46 +1,44 @@
 ### Hi, I'm Saliou 👋
 
-Software engineer in Dakar, working on backend, data and AI. I build the systems that turn
-satellite imagery and climate data into decisions for farmers.
+I build software, and I keep going one layer deeper.
 
-At [Tolbi](https://tolbi.ai) I work on an agritech platform used by cooperatives, agribusinesses
-and 10,000+ smallholder farmers across West Africa:
+These days that mostly means **AI engineering**: agents, retrieval, evaluation, and the
+infrastructure that keeps them honest. Before that I spent two and a half years turning satellite
+data into forecasts for farmers at [Tolbi](https://tolbi.ai), and before that I built banking
+systems. I think of myself as a seeker: pick a domain, learn it properly, build something real in
+it, then follow the next question.
 
-- **Yield forecasting** at 10 m per pixel (Django, PostGIS, Celery, Earth Engine, Vertex AI). I
-  made the heaviest endpoint 137× faster on a 10,000-parcel project.
-- **Country-scale pipelines** on Beam/Dataflow and BigQuery that produced more than a billion rows
-  of training data.
-- **The AI layer** on top of farm data: RAG, then tool agents, then an MCP server that re-checks
-  tenant permissions on every call.
-- **Climate timelines** per field, stitched from observations and ensemble forecasts six months
-  out, cached so cost stays flat as projects grow.
+```
+2018  computer science ── 2022  registry systems ── 2023  banking ── 2024  geospatial & data
+                                                                            │
+                         …wherever it leads ┄┄ robotics ┄┄ machine learning ┄┄ 2025  AI engineering ← now
+```
 
-Before that I built banking microservices (Kafka, mTLS, ISO 20022, early PI-SPI integration) at
-Innov4Africa.
+#### Now
 
-#### Things I've built outside work
+- **Learning**: how LLMs actually work, one layer below the API, with probability and linear
+  algebra alongside. Machine learning next, then robotics.
+- **Building**: **Agency**, a harness for code I don't trust. Rootless read-only sandboxes, a
+  Postgres state machine, one-hour credentials scoped to a single repo, diffs checked before
+  anything is pushed, and a reviewer from another model family.
+- **Reading**: nanoGPT and minbpe, line by line.
+
+#### Things I've built
 
 | | |
 |---|---|
-| [**SenPost**](https://senpost.cc) | Content calendar that publishes to six social networks, with the scheduler living in Postgres |
+| **Tolbi** | Yield forecasting at 10 m per pixel, country-scale Dataflow pipelines (1B+ training rows), an MCP server over farm data with tenant isolation, climate timelines per field |
+| [**SenPost**](https://senpost.cc) | Content calendar that publishes to six networks; the scheduler lives in Postgres |
 | [**DawahRepost**](https://dawahrepost.cc) | Scheduling for Muslim creators: one click turns a surah range into a styled post series |
 | **FlowBot** | WhatsApp bots you draw instead of code. I wrote the backend: a resumable graph engine, LLM agents, voice calls |
 | [**EarthFlow**](https://github.com/saliou33/earthflow-backend) | Node canvas for geospatial pipelines, with a DAG engine in Rust/Axum |
-| **Agency** | Self-hosted coding agents in rootless sandboxes; I approve their PRs from Telegram |
 | [**Vipath**](https://saliou33.github.io/vipath/) · [**Visort**](https://saliou33.github.io/visort/) | Pathfinding and sorting visualisers, written from scratch |
 
-More, with the details, at **[zaleo.dev](https://zaleo.dev)**.
+The details, case studies and notes are at **[zaleo.dev](https://zaleo.dev)**.
 
-#### How I work
-
-No hype. I measure before I optimise, write down why, and fix the cause instead of the
-symptom. I try to get a little better every week through deep dives and practice.
-
-Python · TypeScript · Java · Rust · Kotlin — Django · FastAPI · Spring Boot · Next.js — PostGIS ·
+Python · TypeScript · Rust · Java · Kotlin — FastAPI · Django · Spring Boot · Next.js — Postgres ·
 BigQuery · Earth Engine — GCP · AWS · Cloudflare · Docker
 
 Outside the screen: maths, physics, chess and web novels.
-
-#### Contact
 
 [hello@zaleo.dev](mailto:hello@zaleo.dev) · [zaleo.dev](https://zaleo.dev) · [LinkedIn](https://www.linkedin.com/in/ssl33)
