@@ -40,4 +40,4 @@ BigQuery · Earth Engine — GCP · AWS · Cloudflare · Docker
 
 Outside the screen: maths, physics, chess and web novels.
 
-[hello@zaleo.dev](mailto:hello@zaleo.dev) · [zaleo.dev](https://zaleo.dev) · [LinkedIn](https://www.linkedin.com/in/ssl33)
+[hello@zaleo.dev](mailto:hello@zaleo.dev) · [zaleo.dev](https://zaleo.dev) · [LinkedIn](https://www.linkedin.com/in/saliou33)
