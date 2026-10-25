@@ -10,14 +10,15 @@ it, then follow the next question.
 
 ```
 2018 computer science ─ 2022 registry systems ─ 2023 banking ─ 2024 geospatial & data
-2025 AI engineering ← now ┄┄ next: machine learning ┄┄ later: robotics
+2025 machine learning (revising) ─ 2026 AI engineering ← now ┄┄ next: robotics, neuroscience
 ```
 
 #### Now
 
 - **Learning**: AI engineering from the maths up, working through
   [AI Engineering from Scratch](https://aiengineeringfromscratch.com): backprop, a tokenizer,
-  attention, an agent loop, each derived before any framework. Machine learning next, then robotics.
+  attention, an agent loop, each derived before any framework, while revising the machine learning
+  underneath. Robotics and neuroscience next.
 - **Building**: **Agency**, a harness for code I don't trust. Rootless read-only sandboxes, a
   Postgres state machine, one-hour credentials scoped to a single repo, diffs checked before
   anything is pushed, and a reviewer from another model family.
