@@ -29,7 +29,7 @@ it, then follow the next question.
 | [**SenPost**](https://senpost.cc) | Content calendar that publishes to six networks; the scheduler lives in Postgres |
 | [**DawahRepost**](https://dawahrepost.cc) | Scheduling for Muslim creators: one click turns a surah range into a styled post series |
 | [**FlowBot**](https://zaleo.dev/projects/flowbot) | WhatsApp bots you draw instead of code. I wrote the backend: a resumable graph engine, LLM agents, voice calls |
-| [**EarthFlow**](https://github.com/saliou33/earthflow-backend) | Node canvas for geospatial pipelines, with a DAG engine in Rust/Axum |
+| [**EarthFlow**](https://earthflow.zaleo.dev) | Node canvas for geospatial pipelines, with a DAG engine in Rust/Axum |
 | [**Vipath**](https://saliou33.github.io/vipath/) · [**Visort**](https://saliou33.github.io/visort/) | Pathfinding and sorting visualisers, written from scratch |
 
 The details, case studies and notes are at **[zaleo.dev](https://zaleo.dev)**.
