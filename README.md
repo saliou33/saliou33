@@ -3,9 +3,7 @@
 I build software, and I keep going one layer deeper.
 
 These days that mostly means **AI engineering**: agents, retrieval, evaluation, and the
-infrastructure that keeps them honest. Before that I spent two and a half years turning satellite
-data into forecasts for farmers at [Tolbi](https://tolbi.ai), and before that I built banking
-systems. I think of myself as a seeker: pick a domain, learn it properly, build something real in
+infrastructure that keeps them honest. I think of myself as a seeker: pick a domain, learn it properly, build something real in
 it, then follow the next question.
 
 ```
