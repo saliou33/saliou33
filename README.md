@@ -26,13 +26,19 @@ it, then follow the next question.
 | | |
 |---|---|
 | **Tolbi** | Yield forecasting at 10 m per pixel, country-scale Dataflow pipelines (1B+ training rows), an MCP server over farm data with tenant isolation, climate timelines per field |
-| [**SenPost**](https://senpost.cc) | Content calendar that publishes to six networks; the scheduler lives in Postgres |
-| [**DawahRepost**](https://dawahrepost.cc) | Scheduling for Muslim creators: one click turns a surah range into a styled post series |
+| [**Daara**](https://daara.zaleo.dev) | Quran memorisation; Whisper runs in the browser and checks recitation word by word (98 % of words right on a 48-clip benchmark) |
+| [**Ummah**](https://ummah.zaleo.dev) | Quran, hadith and tafsir search in FR/EN/AR with a checker for forwarded hadith; Meilisearch plus a self-hosted multilingual embedder |
+| [**Suuf**](https://suuf.zaleo.dev) | Check a plot of land before buying it: ten years of Sentinel-1/2, terrain and water history in a signed report |
+| [**Kàddu**](https://kaddu.zaleo.dev) | Wolof speech-to-text, text-to-speech and translation on open models, benchmarked in the open |
+| [**Mirath**](https://mirath.zaleo.dev) | Islamic inheritance shares with each step cited; 65 classical cases and 4,000 random-family checks gate every deploy |
+| [**Arnaque?**](https://arnaque.zaleo.dev) · [**Courant**](https://courant.zaleo.dev) | A scam checker for West African messages (rules first, AI second), and a crowd-reported map of power and water cuts in Dakar |
+| [**Dawah**](https://dawah.zaleo.dev) · [**Yégle**](https://yegle.zaleo.dev) | Social schedulers (formerly DawahRepost and SenPost); the scheduler lives in Postgres, publishing goes through Zaleo Post, a Rust/axum routing service |
+| [**Sajda**](https://sajda.zaleo.dev) · [**Zaleo Auth**](https://auth.zaleo.dev) | Prayer guide with a 3D figure built in code, and the single sign-on behind all of the apps above |
 | [**FlowBot**](https://zaleo.dev/projects/flowbot) | WhatsApp bots you draw instead of code. I wrote the backend: a resumable graph engine, LLM agents, voice calls |
 | [**EarthFlow**](https://earthflow.zaleo.dev) | Node canvas for geospatial pipelines, with a DAG engine in Rust/Axum |
 | [**Vipath**](https://saliou33.github.io/vipath/) · [**Visort**](https://saliou33.github.io/visort/) | Pathfinding and sorting visualisers, written from scratch |
 
-The details, case studies and notes are at **[zaleo.dev](https://zaleo.dev)**.
+The public apps are listed at [apps.zaleo.dev](https://apps.zaleo.dev); the details, case studies and notes are at **[zaleo.dev](https://zaleo.dev)**.
 
 Python · TypeScript · Rust · Java · Kotlin — FastAPI · Django · Spring Boot · Next.js — Postgres ·
 BigQuery · Earth Engine — GCP · AWS · Cloudflare · Docker
