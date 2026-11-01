@@ -32,7 +32,7 @@ it, then follow the next question.
 | [**Kàddu**](https://kaddu.zaleo.dev) | Wolof speech-to-text, text-to-speech and translation on open models, benchmarked in the open |
 | [**Mirath**](https://mirath.zaleo.dev) | Islamic inheritance shares with each step cited; 65 classical cases and 4,000 random-family checks gate every deploy |
 | [**Arnaque?**](https://arnaque.zaleo.dev) · [**Courant**](https://courant.zaleo.dev) | A scam checker for West African messages (rules first, AI second), and a crowd-reported map of power and water cuts in Dakar |
-| [**Dawah**](https://dawah.zaleo.dev) · [**Yégle**](https://yegle.zaleo.dev) | Social schedulers (formerly DawahRepost and SenPost); the scheduler lives in Postgres, publishing goes through Zaleo Post, a Rust/axum routing service |
+| [**Dawah**](https://dawah.zaleo.dev) · [**Yégle**](https://yegle.zaleo.dev) | Social schedulers (formerly DawahRepost and SenPost); the scheduler lives in Postgres |
 | [**Sajda**](https://sajda.zaleo.dev) · [**Zaleo Auth**](https://auth.zaleo.dev) | Prayer guide with a 3D figure built in code, and the single sign-on behind all of the apps above |
 | [**FlowBot**](https://zaleo.dev/projects/flowbot) | WhatsApp bots you draw instead of code. I wrote the backend: a resumable graph engine, LLM agents, voice calls |
 | [**EarthFlow**](https://earthflow.zaleo.dev) | Node canvas for geospatial pipelines, with a DAG engine in Rust/Axum |
