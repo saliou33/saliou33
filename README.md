@@ -6,4 +6,4 @@ Lately: satellite imagery at scale, speech models for Wolof, and making AI agent
 
 Python · TypeScript · Rust · Java · Postgres · GCP · Cloudflare
 
-Work and write-ups at **[zaleo.dev](https://zaleo.dev)** · [hello@zaleo.dev](mailto:hello@zaleo.dev) · [LinkedIn](https://www.linkedin.com/in/saliou33)
+Work and write-ups at **[zaleo.dev](https://zaleo.dev)** · [saliou@zaleo.dev](mailto:saliou@zaleo.dev) · [LinkedIn](https://www.linkedin.com/in/saliou33)
